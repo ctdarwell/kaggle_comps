@@ -5,7 +5,7 @@ Machine Learning attempts at Kaggle competitions
 1. `kaggle_ames_housing_Lim_Impute.py`
 
 Regression analyses of Ames House prices: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
-Full workflow with comprehensive feature engineering (see: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/discussion/313689) and several evaluated models including a Stacked Regressor ensemble and a random Grid Search (although .pkl file cannot be uploaded) on a RandomForestRegressor. Best score 12.28
+Full workflow with comprehensive feature engineering (mostly following: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/discussion/313689) and several evaluated models including a Stacked Regressor ensemble and a random Grid Search (although .pkl file cannot be uploaded) on a RandomForestRegressor. Best score 12.28
 
 
 
