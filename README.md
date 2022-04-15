@@ -11,11 +11,12 @@ Full workflow with comprehensive feature engineering (see: https://www.kaggle.co
 
 2. `kaggle_ames_housing_LimModelOnly.py`
 
-Regression analyses of Ames House prices. My own (less comprehensive) feature engineering with the Stacked Regressor ensemble model. Score: 12.9 (so only slightly worse than [1] despite much simpler feature engineering).
+Additional regression analyses of Ames House prices. My own (less comprehensive) feature engineering with the Stacked Regressor ensemble model. Score: 12.9 (so only slightly worse than [1] despite much simpler feature engineering).
 
 
 
 3. `spaceship_titanic.py`
 
+Classification: https://www.kaggle.com/competitions/spaceship-titanic/overview
 Classification task with feature engineering. Several model evaluations and several evaluation techniques. Best score 0.792. 
 
